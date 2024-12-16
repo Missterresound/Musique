@@ -1,6 +1,0 @@
-{
-  "playlist1": [
-    {"title": "Chanson 1", "artist": "Artiste 1", "url": "https://raw.githubusercontent.com/ton-repo/musique/playlist1/chanson1.mp3"},
-    {"title": "Chanson 2", "artist": "Artiste 2", "url": "https://raw.githubusercontent.com/ton-repo/musique/playlist1/chanson2.mp3"}
-  ]
-}
